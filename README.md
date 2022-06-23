@@ -2,7 +2,7 @@
 
 The USAID Cybersecurity for Critical Infrastructure in Ukraine Activity created five repositories with materials developed for CTO mentorship program in 2021.
 
-The fifth module of this program contains materials on fundamentals of operational technology and IT OT convergence in integrated cybersecurity.
+The fifth module of this program contains materials on fundamentals of IT OT convergence in integrated cybersecurity.
 
 IT and OT are increasingly becoming one and the same entity, and are approaching a common set of business goals and objectives for the future of many industries. Driven by the increase of Industrial Internet of Things (IIoT), Industry 4.0 and new business opportunities presented by digital transformation, many organisations are already entering the IT/OT integration journey and embracing the benefits as well as risks associated with such business models. 
 
