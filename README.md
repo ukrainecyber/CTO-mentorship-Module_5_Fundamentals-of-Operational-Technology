@@ -10,4 +10,6 @@ The benefits of economies of scale are shifting from owners and operators to man
 
 The convergence of IT and OT should be encouraged and promoted at technology, security and process levels (security as business enabler). While convergence and integration of OT brings improvements, current technology developments require managers responsible for the OT domain to start new discussions about how to keep critical infrastructures safe, resilient and up-to-date. However, for this to happen organisations need to consider both IT and OT environments and their readiness to converge, which is often not the case, as today many facilities lack the necessary infrastructure are certainly not future-proof. 
 
+All training materials are prepared in English and Ukrainian languages accompanied with the whitepapers from the international experts in English.
+
 These materials were prepared by Catalisto, LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity. 
